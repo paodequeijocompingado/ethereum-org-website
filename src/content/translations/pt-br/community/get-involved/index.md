@@ -49,7 +49,7 @@ Se você não é um desenvolvedor, pode ser difícil saber por onde começar no 
 
 ### Traduza conteúdo do Ethereum para a sua língua materna {#translate-ethereum}
 
-- ethereum.org mantém um projeto de tradução d site, e outros recursos, para vários idiomas diferentes
+- ethereum.org mantém um projeto de tradução do site, e outros recursos, para vários idiomas diferentes
 - Saiba como participar [aqui](/contributing/translation-program)
 
 ### Execute um nó {#run-a-node}
